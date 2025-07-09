@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Xyrel </h1>
 
-<p align="left">
+<p align="center">
   <b>Aspiring Software Engineer</b> passionate about building modern web and mobile applications.<br>
   I specialize in interactive, scalable, and performance-driven solutions using the latest tools and frameworks.<br>
   With a full-stack mindset and a user-first approach, I craft seamless digital experiences across platforms.
