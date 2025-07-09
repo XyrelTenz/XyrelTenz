@@ -1,10 +1,11 @@
-<p align="left">Hi there, I'm <strong>Daryl</strong> 👋</p>
+<h1 align="left">Hi, I'm Xyrel</h1>
 
-<p align="left">A passionate full-stack developer with a strong focus on modern web technologies. I love building interactive, scalable, and efficient applications using cutting-edge tools and frameworks.</p>
+<p align="center">Aspiring Software Engineer with a strong passion for building modern web and mobile applications. I specialize in creating interactive, scalable, and performance-driven solutions using the latest tools and frameworks. With a full-stack mindset and a user-first approach, I'm committed to crafting seamless digital experiences across platforms.
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" />
@@ -56,24 +57,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="25" alt="WebStorm" />
 </div>
 
----
+### Most Used Tech 
+<div align="left">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+</div>
 
-### 📈 GitHub Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyrel/xyrel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyrel/xyrel/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/xyrel/xyrel/output/pacman-contribution-graph.svg">
-</picture>
+### 🐍 Contribution Graph
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
-### 📫 Let's Connect
 
-- 🔗 [Portfolio](#) <!-- Add your link -->
-- 💼 [LinkedIn](#) <!-- Add your link -->
-- 💻 [Blog / Medium](#) <!-- Optional -->
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
