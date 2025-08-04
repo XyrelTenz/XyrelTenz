@@ -53,9 +53,9 @@
 
 <h3 align="left">GitHub Stats & Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XyrelTenz&show_icons=true&theme=vue-light" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XyrelTzy&show_icons=true&theme=vue-light" height="150" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyrelTzy&layout=compact&theme=vue-light" 
-  style="width: 100%; max-width: 100%;" 
+  style="width: 100%; max-width: 100%; border-radius: none;" 
   alt="Top Languages"
 />
 </p>
