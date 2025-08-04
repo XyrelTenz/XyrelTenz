@@ -53,8 +53,8 @@
 
 <h3 align="left">GitHub Stats & Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noam-honig&show_icons=true&theme=vue-dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noam-honig&layout=compact&theme=vue-dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XyrelTenz&show_icons=true&theme=vue-dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noam-XyrelTenz=compact&theme=vue-dark" height="150" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
