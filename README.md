@@ -54,11 +54,11 @@
 
 <!-- Column layout for GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XyrelTenz&show_icons=true&theme=vue-dark" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XyrelTenz&show_icons=true&theme=vue-dark" width="600" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyrelTenz&layout=compact&theme=vue-dark" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyrelTenz&layout=compact&theme=vue-dark" width="600" alt="Top Languages" />
 </p>
 
 <p align="center">
