@@ -50,10 +50,10 @@
 
 ---
 
-<h3 align="left">GitHub Stats & Contribution Graph</h3>
+<!-- <h3 align="left">GitHub Stats & Contribution Graph</h3> -->
 
 <!-- Column layout for GitHub stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XyrelTenz&show_icons=true&theme=vue-dark" width="600" alt="GitHub Stats" />
 </p>
 
@@ -63,4 +63,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
-</p>
+</p> -->
