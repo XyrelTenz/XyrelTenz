@@ -23,7 +23,7 @@ Hi, I’m Xyrel D. Tenefrancia, an aspiring Full Stack Web & Mobile Developer bu
 ---
 
 <!-- <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyrelTenz&layout=compact&theme=tokyonight&hide_border=false&langs_count=1" width="50%" alt="Most Used Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyrelTenz&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" width="50%" alt="Most Used Language" />
 </p> -->
 
 <!-- <p align="center">
