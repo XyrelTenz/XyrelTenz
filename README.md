@@ -29,3 +29,5 @@ Hi, I’m Xyrel D. Tenefrancia, an aspiring Full Stack Web & Mobile Developer bu
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake Animation" />
 </p> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?XyrelTenz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
