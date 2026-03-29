@@ -1,31 +1,28 @@
-<p align="start">
-Hi, I’m Xyrel D. Tenefrancia, an aspiring Full Stack Web & Mobile Developer building modern, high-performance applications using cutting-edge frameworks and technologies.
-</p>
+<div align="left">
 
----
+Hi, I am Xyrel D. Tenefrancia, an App Native Developer and BSIT student specializing in mobile and system-level architecture to deliver clean, high-performance native and cross-platform applications without compromising on speed or user experience.
+
+<br>
 
 ### Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+<p align="left">
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" width="40" alt="Android" title="Android" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" width="40" alt="Kotlin" title="Kotlin" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" alt="Flutter" title="Flutter" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" width="40" alt="Dart" title="Dart" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" width="40" alt="QT" title="QT" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40" alt="JavaScript" title="JavaScript" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40" alt="TypeScript" title="TypeScript" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="40" alt="Go" title="Go" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" width="40" alt="Lua" title="Lua" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="40" alt="VueJS" title="VueJS" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nuxt_js.png" width="40" alt="NuxtJS" title="NuxtJS" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" width="40" alt="BunJS" title="BunJS" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="40" alt="Linux" title="Linux" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" width="40" alt="Arch Linux" title="Arch Linux" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" width="40" alt="Neovim" title="Neovim" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40" alt="Figma" title="Figma" /></kbd>
 </p>
 
----
-
-<!-- <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyrelTenz&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" width="50%" alt="Most Used Language" />
-</p> 
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake Animation" />
-</p> -->
+</div>
