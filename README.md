@@ -9,6 +9,8 @@ Hi, I am Xyrel D. Tenefrancia, an App Native Developer and BSIT student speciali
 <p align="left">
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" width="40" alt="Android" title="Android" /></kbd> &nbsp;
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" width="40" alt="Kotlin" title="Kotlin" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="40" alt="springboot" title="Springboot" /></kbd> &nbsp;
+  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="40" alt="spring" title="Spring" /></kbd> &nbsp;
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" alt="Flutter" title="Flutter" /></kbd> &nbsp;
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" width="40" alt="Dart" title="Dart" /></kbd> &nbsp;
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" width="40" alt="QT" title="QT" /></kbd> &nbsp;
