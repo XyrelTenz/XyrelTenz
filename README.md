@@ -27,4 +27,6 @@ Hi, I am Xyrel D. Tenefrancia, an App Native Developer and BSIT student speciali
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40" alt="Figma" title="Figma" /></kbd>
 </p>
 
+[![GitHub Stats](https://ghstats.dev/api/card?username=xyreltenz\&theme=catppuccin\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/xyreltenz)
+
 </div>
