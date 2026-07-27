@@ -1,6 +1,6 @@
 <div align="left">
 
-Hi, I am Xyrel D. Tenefrancia, an App Native Developer and BSIT student specializing in mobile and system-level architecture to deliver clean, high-performance native and cross-platform applications without compromising on speed or user experience.
+Hi, I am Xyrel D. Tenefrancia, an App Native Developer specializing in mobile and system-level architecture to deliver clean, high-performance native and cross-platform applications without compromising on speed or user experience.
 
 <br>
 
