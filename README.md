@@ -12,7 +12,7 @@ Hi, I am Xyrel D. Tenefrancia, an App Native Developer & Systems Builder special
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,spring,go,rust,ts,js,lua,nix,arch,linux,git,postgres,redis,sqlite,docker,neovim,figma&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,spring,go,rust,ts,js,lua,qt,nix,arch,linux,git,postgres,redis,sqlite,docker,neovim,figma&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
