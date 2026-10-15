@@ -23,3 +23,13 @@ Hi, I am Xyrel D. Tenefrancia, an App Native Developer & Systems Builder special
   <a href="https://github.com/xyreltenz"><img src="https://ghstats.dev/api/card?username=xyreltenz&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10" alt="GitHub Stats" height="195" /></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyreltenz&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
+
+
+
+<div align="left">
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XyrelTenz&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true)
+
+</div>
